@@ -1,0 +1,19 @@
+/* Rahmi Kholidah Pane_202432019 */
+body { 
+    background: linear-gradient(135deg, #1a2a6c); 
+    background-size: cover;
+}
+
+.card { 
+    background-color: #4b5563 !important; /* Warna abu-abu gelap sesuai gambar */
+    border-radius: 20px;
+}
+
+.card h2 {
+    color: #1f2937;
+    font-weight: bold;
+}
+
+.nav-link:hover { 
+    color: #f1c40f !important; 
+}

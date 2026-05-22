@@ -1,0 +1,59 @@
+/* Rahmi Kholidah Pane_202432019 */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #fff;
+}
+
+header {
+    background-color: #64a1b4;
+    color: white;
+    padding: 40px;
+    text-align: center;
+}
+
+nav {
+    margin-top: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 8px 15px;
+    border: 1px solid white;
+    border-radius: 5px;
+    margin: 0 5px;
+}
+
+nav a.active {
+    background-color: white;
+    color: #64a1b4;
+}
+
+main {
+    padding: 40px;
+}
+
+h2 {
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.styled-table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 2px solid #64a1b4;
+}
+
+.styled-table th {
+    background-color: #64a1b4;
+    color: white;
+    padding: 12px;
+    border: 1px solid #fff;
+}
+
+.styled-table td {
+    padding: 12px;
+    border: 1px solid #64a1b4;
+    text-align: left;
+}
